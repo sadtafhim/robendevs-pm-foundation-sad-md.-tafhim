@@ -135,15 +135,15 @@ Product Managers, BAs, developers, and QA engineers may review them.
 
 The backlog tells the team what work needs to be done, what its priority is, and who is responsible for it. A backlog is an organized list of work that needs to be completed in a project.
 
-### 5.2 A. Product Backlog
+### Product Backlog
 
 The product backlog contains all planned work for the product.
 
-### 5.3 B. Sprint Backlog
+### Sprint Backlog
 
 A sprint backlog contains the selected work that the development team plans to complete during a particular sprint.
 
-### 5.4 Product Backlog vs. Sprint Backlog
+### 5.2 Product Backlog vs. Sprint Backlog
 
 | Factor | Product Backlog | Sprint Backlog |
 |---|---|---|
@@ -155,7 +155,7 @@ A sprint backlog contains the selected work that the development team plans to c
 | Purpose | Visibility and ordering of everything planned | Commitment and focus for the current sprint |
 | Where It Lives | Jira product backlog | Jira sprint board / sprint scope |
 
-### 5.5 A Typical Backlog Item May Include:
+### 5.3 A Typical Backlog Item May Include:
 
 1. Issue ID
 2. User story or task description
@@ -168,7 +168,7 @@ A sprint backlog contains the selected work that the development team plans to c
 9. Dependencies
 10. Related design and requirement links
 
-### 5.6 Who Manages the Backlog?
+### 5.4 Who Manages the Backlog?
 
 - **Product Owner:** prioritizes product work.
 - **Scrum Master:** facilitates the Scrum process.
@@ -176,7 +176,7 @@ A sprint backlog contains the selected work that the development team plans to c
 - **QA:** contributes testing tasks and quality considerations.
 - **Business Analyst:** helps clarify and refine requirements.
 
-### 5.7 Where the Backlog Lives
+### 5.5 Where the Backlog Lives
 
 - Jira project backlog, with issues typed as stories, tasks, bugs, and epics.
 - Jira board views (Kanban or Scrum) for daily work tracking.
